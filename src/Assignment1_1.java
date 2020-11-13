@@ -7,8 +7,9 @@ class Assignment1_1 {
         String course = "Java Web";
         System.out.println(course);
 
-        String homeTown = "Council Bluffs, IA";
-        System.out.println(homeTown);
+        String homeTownCity = "Council Bluffs";
+        String homeTownState = "IA";
+        System.out.println(homeTownCity + ", " + homeTownState);
 
         String favoriteFood = "Hot Wings";
         System.out.println(favoriteFood);
